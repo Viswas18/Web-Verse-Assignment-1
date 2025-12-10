@@ -42,5 +42,5 @@ Determine the letter grade for a given numerical score.
 - [ ] Reviewer: Sneha R
 - [ ] Tester: Anamika P
 - [ ] Documentation Lead: Prajwal P
-- [ ] Presenter: Sourav K
+- [x] Presenter: Sourav K
 - [ ] Support: Nivedhitha K
